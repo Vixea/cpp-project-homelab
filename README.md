@@ -20,8 +20,7 @@ Monitor the status of devices in homelab.
 
 ### Supported Devices
 
-- Linux Servers/NAS freenas
-- 
+- (Arch) Linux Servers/NAS freenas
 
 ### Stretch
 
@@ -42,3 +41,8 @@ Monitor the status of devices in homelab.
 - Typescript (vite)
     - Vanilla TS
 - Server? Python? Nodejs? Something else  --> Try HONO.js <--
+
+
+## TODO
+
+- Figure out tests
