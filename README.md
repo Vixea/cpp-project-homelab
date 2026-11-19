@@ -32,7 +32,7 @@ Monitor the status of devices in homelab.
 
 ### Must Have
 
-- Authentication - What types are supported, and how strong should the authentication checks be?
+- Authentication - use tailscale api for basic access into the dashboard with pin/webauthn(hardware keys) for privileged access to tools
 
 ### Technology
 
